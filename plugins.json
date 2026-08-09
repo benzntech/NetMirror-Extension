@@ -1,23 +1,23 @@
 [
-    {
-        "iconUrl": "https://raw.githubusercontent.com/Sushan64/NetMirror-Extension/refs/heads/master/Netmirror/logo.jpeg",
-        "fileHash": "sha256-dfc22507ab8bb5c495932128bc031bc79504810290a0e1d665daf6926e987663",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Sushan64/NetMirror-Extension.git",
-        "fileSize": 81013,
-        "status": 1,
-        "language": "hi",
-        "authors": [
-            "Sushan64"
-        ],
-        "tvTypes": [
-            "Movie",
-            "TvSeries"
-        ],
-        "version": 45,
-        "internalName": "Netmirror",
-        "description": "Netflix, PrimeVideo, Disney+ Hotstar Contents in Multiple Languages",
-        "url": "https://raw.githubusercontent.com/Sushan64/NetMirror-Extension.git/builds/Netmirror.cs3",
-        "name": "Netmirror"
-    }
+ {
+  "iconUrl": "https://raw.githubusercontent.com/Sushan64/NetMirror-Extension/refs/heads/master/Netmirror/logo.jpeg",
+  "fileHash": "sha256-dfc22507ab8bb5c495932128bc031bc79504810290a0e1d665daf6926e987663",
+  "apiVersion": 1,
+  "repositoryUrl": "https://github.com/Sushan64/NetMirror-Extension.git",
+  "fileSize": 81013,
+  "status": 1,
+  "language": "hi",
+  "authors": [
+   "Sushan64"
+  ],
+  "tvTypes": [
+   "Movie",
+   "TvSeries"
+  ],
+  "version": 45,
+  "internalName": "Netmirror",
+  "description": "Netflix, PrimeVideo, Disney+ Hotstar Contents in Multiple Languages",
+  "url": "https://raw.githubusercontent.com/benzntech/NetMirror-Extension/ba5c592/Netmirror.cs3",
+  "name": "Netmirror"
+ }
 ]
