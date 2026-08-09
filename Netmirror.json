@@ -4,6 +4,6 @@
  "description": "Fixed Netmirror extension \u2014 ERROR_CODE_IO_BAD_HTTP_STATUS (2004) fix. PR: Sushan64/NetMirror-Extension#35",
  "manifestVersion": 1,
  "pluginLists": [
-  "https://raw.githubusercontent.com/benzntech/NetMirror-Extension/ba5c592/plugins.json"
+  "https://raw.githubusercontent.com/benzntech/NetMirror-Extension/46948d87d0f4509a55ca5dd09358468be5890a45/plugins.json"
  ]
 }
