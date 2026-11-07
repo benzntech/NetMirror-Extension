@@ -1,9 +1,8 @@
 {
- "name": "NetMirror Fix (2004)",
- "iconUrl": "https://raw.githubusercontent.com/Sushan64/NetMirror-Extension/master/Netmirror/logo.jpeg",
- "description": "Fixed Netmirror extension \u2014 ERROR_CODE_IO_BAD_HTTP_STATUS (2004) fix. PR: Sushan64/NetMirror-Extension#35",
- "manifestVersion": 1,
- "pluginLists": [
-  "https://raw.githubusercontent.com/benzntech/NetMirror-Extension/5cdb3580819ddac56fcbb66f839371a2764e6714/plugins.json"
- ]
+  "name": "NetMirror",
+  "description": "Netflix, PrimeVideo, Disney+ Hotstar Contents (Fixed NewTV v47)",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/benzntech/NetMirror-Extension/builds/plugins.json"
+  ]
 }
